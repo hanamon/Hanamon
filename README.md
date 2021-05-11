@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Hanamon and I'm Front-end Developer 🌞 
+- 🌱 I’m currently learning ...
 
 <!--
 **hanamon/hanamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
