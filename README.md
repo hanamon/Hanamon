@@ -1,6 +1,9 @@
-### Hi there 👋
-I'm Hanamon and I'm Front-end Developer 🌞 
-- 🌱 I’m currently learning ...
+Hi! Welcome to my Github!
+## I'm Hanamon and SW Developer 👋
+I'm currently studying to do SW development well. 🧑🏻‍💻🌱
+
+### ✍️ Blog
+[하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
 
 <!--
 **hanamon/hanamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
