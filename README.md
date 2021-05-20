@@ -3,7 +3,7 @@ Hi! Welcome to my Github!
 I'm currently studying to do SW development well. 🧑🏻‍💻🌱
 
 ### ✍️ Blog
-[하나몬 | 개발자의 기록과 작업](https://hanamon.kr)
+[하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
 
 <!--
 **hanamon/hanamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
