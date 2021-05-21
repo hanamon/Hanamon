@@ -14,8 +14,8 @@ I'm currently studying to do SW development well.
 <a href="https://github.com/hanamon/Today-Record">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hanamon&repo=Today-Record" />
 </a>
-<a href="https://github.com/hanamon/learning-vuejs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hanamon&repo=learning-vuejs" />
+<a href="https://github.com/hanamon/Learning-VueJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hanamon&repo=Learning-VueJS" />
 </a>
 
 <!--
