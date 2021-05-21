@@ -5,7 +5,7 @@ I'm currently studying to do SW development well.
 ### ✍️ Blog
 [하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
 
-### GitHub Stats
+### 👾 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=defective-speaker&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
