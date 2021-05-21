@@ -1,8 +1,6 @@
-Hi! Welcome to my Github!
-### I'm Hanamon and SW Developer. 👋 🧑🏻‍💻 🌳
+Hi! Welcome to my Github!<br />
+**I'm Hanamon and SW Developer.** 👋 🧑🏻‍💻 🌳<br />
 I'm currently studying to do SW development well.
-
-<br />
 
 ### ✍️ Blog
 [하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
