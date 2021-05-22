@@ -1,15 +1,16 @@
-Hi! Welcome to my Github!<br />
-**I'm Hanamon and SW Developer.** 👋 🧑🏻‍💻 🌳<br />
-I'm currently studying to do SW development well.
+# Hi! Welcome to my GitHub!
+## I'm Hanamon and SW Developer. 👋 🧑🏻‍💻 🌳
+I'm currently learning to do SW development well.
 
 ### ✍️ Blog
 [하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
 
 ### 👾 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=defective-speaker&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=WP-Hanamon-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
+
+<!--
 ### 📖 Records
 <a href="https://github.com/hanamon/Today-Record">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hanamon&repo=Today-Record" />
@@ -17,6 +18,7 @@ I'm currently studying to do SW development well.
 <a href="https://github.com/hanamon/Learning-VueJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hanamon&repo=Learning-VueJS" />
 </a>
+-->
 
 <!--
 **hanamon/hanamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
