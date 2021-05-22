@@ -1,14 +1,18 @@
-# Hi! Welcome to my GitHub!
-## I'm Hanamon and SW Developer. 👋 🧑🏻‍💻 🌳
-I'm currently learning SW development.
+### Hi! Welcome to my GitHub!
+I'm Hanamon and SW Developer. 👋 🧑🏻‍💻 🌳
 
-### ✍️ Blog
+#### ✍️ Blog
 [하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
 
-### 👾 GitHub Stats
+#### 👾 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=WP-Hanamon-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
+
+#### 📖 I'm currently learning
+- Computer and Programming
+- Pair programming
+- Web Development
 
 <!--
 ### 📖 Records
