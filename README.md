@@ -2,7 +2,7 @@
 I'm Hanamon and SW Developer. 👋 🧑🏻‍💻 🌳
 
 #### ✍️ Blog
-[하나몬 | 개발자의 작업과 기록](https://hanamon.kr)
+[하나몬 | 개발자의 작업과 기록 : hanamon.kr](https://hanamon.kr)
 
 #### 👾 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
@@ -13,6 +13,10 @@ I'm Hanamon and SW Developer. 👋 🧑🏻‍💻 🌳
 - Computer and Programming
 - Pair programming
 - Web Development
+
+#### 🧩 Project
+- Register Validation Check : [https://hanamon.github.io/Register-Validation-Check/](https://hanamon.github.io/Register-Validation-Check/)
+- Calculator : [https://hanamon.github.io/Calculator/calculator.html](https://hanamon.github.io/Calculator/calculator.html)
 
 <!--
 ### 📖 Records
