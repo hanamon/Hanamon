@@ -1,5 +1,5 @@
 ### Hi! Welcome to my GitHub!
-I'm Hanamon and Front-end Web Developer. 👋 🧑🏻‍💻 🌳
+My name is Hanamon I'm a Front-end Web Engineer based in Seoul. 👋 🧑🏻‍💻 🌳
 
 #### 🛠 Tech Stack
 <p>
