@@ -1,5 +1,5 @@
 ### Hi! Welcome to my GitHub!
-I'm Hanamon and Web Developer. 👋 🧑🏻‍💻 🌳
+I'm Hanamon and Front-end Web Developer. 👋 🧑🏻‍💻 🌳
 
 #### 🛠 Tech Stack
 <p>
