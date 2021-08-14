@@ -1,16 +1,16 @@
 ### Hi! Welcome to my GitHub!
-My name is Hanamon I'm a **Front-end Web Engineer** based in South Korea. 👋 🧑🏻‍💻 🌳
+My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 🧑🏻‍💻 🌳
 
 #### 🛠 Tech Stack
 <p>
   <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-React-47CEF6?style=for-the-badge&logo=React&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
   <img src="http://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
   <img src="http://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  <img src="http://img.shields.io/badge/-React-47CEF6?style=for-the-badge&logo=React&logoColor=white"
+       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 </p>
 
 #### ✍️ Blog
@@ -27,8 +27,7 @@ My name is Hanamon I'm a **Front-end Web Engineer** based in South Korea. 👋 �
 - Computer and Programming
 
 #### 🧩 Project
-- Register Validation Check (2021.06) : [https://hanamon.github.io/Register-Validation-Check/](https://hanamon.github.io/Register-Validation-Check/)
-- Calculator (2021.05) : [https://hanamon.github.io/Calculator/calculator.html](https://hanamon.github.io/Calculator/calculator.html)
+- Coming soon
 
 <!--
 #### 📖 Records
