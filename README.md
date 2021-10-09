@@ -9,25 +9,25 @@ My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 �
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
   <img src="http://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="http://img.shields.io/badge/-React-47CEF6?style=for-the-badge&logo=React&logoColor=white"
+  <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
 </p>
 
 #### ✍️ Blog
 [하나몬 | 개발자의 작업과 기록 : hanamon.kr](https://hanamon.kr)
 
-#### 👾 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=WP-Hanamon-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
+#### 🧩 Project
+- Coming soon!
 
 #### 📖 I'm currently learning
 - Web Development
 - Pair programming
 - Computer and Programming
 
-#### 🧩 Project
-- Coming soon
+#### 👾 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=WP-Hanamon-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
 
 <!--
 #### 📖 Records
