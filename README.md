@@ -18,7 +18,7 @@ My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 �
 
 #### 🧩 Project
 - Coming soon!
-- HAKUNA MATATA / First 'The HADA' Team Project / 2021
+- HAKUNA MATATA / First 'The HADA' Team 2 week Project / 2021
 - '프로젝트 진행 중...' / Final 'The HADA' Team Project / 2021
 
 #### 📖 I'm currently learning
