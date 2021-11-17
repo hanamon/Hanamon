@@ -26,11 +26,11 @@ My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 �
 
 #### ⚗️ JISIK SPONSOR (지식스폰서)
 [**지식스폰서** | **연구지식 특화 크라우드 플랫폼** : jisiksponsor.com](https://jisiksponsor.com)  
-_Final 'The HADA' Team 4 week Project / 2021_
+_Final Project / 4 week / Team 'The HADA' / 2021_
 
 #### 🌜 HAKUNA MATATA (하쿠나 마타타)
 [**하쿠나 마타타** | **인간관계 고민 커뮤니티** : hakunamatata.kr](https://hakunamatata.kr)  
-_First 'The HADA' Team 2 week Project / 2021_
+_First Project / 2 week / Team 'The HADA' / 2021_
 
 <br>
 
