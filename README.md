@@ -1,8 +1,6 @@
 # Hi! Welcome to my GitHub!
 My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 🧑🏻‍💻 🌳
 
-<br>
-
 ## 🦉 About
 
 #### 🛠 Tech Stack
@@ -23,8 +21,6 @@ My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 �
 
 #### ✍️ Blog
 [**하나몬** | **개발자의 작업과 기록** : hanamon.kr](https://hanamon.kr)
-
-<br>
 
 ## 🔥 Team Projects
 
