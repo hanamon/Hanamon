@@ -4,23 +4,41 @@ My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 �
 ## 🦉 About
 
 #### 🛠 Tech Stack
-<p>
-  <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp 
-  <img src="http://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white"
+<ul>
+  <li>
+    <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
+       style="height: auto; margin-left: 10px; margin-right: 10px;"/>  
+    <img src="http://img.shields.io/badge/-TypeScript-3073BF?style=for-the-badge&logo=TypeScript&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  <img src="http://img.shields.io/badge/-Sequelize-00AFEE?style=for-the-badge&logo=Sequelize&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-  <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>&nbsp
-</p>
+  </li>
+  <li>
+    <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/> 
+    <img src="http://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white"
+       style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Nest-DA224B?style=for-the-badge&logo=NestJS&logoColor=white"
+         style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  </li>
+  <li>
+    <img src="http://img.shields.io/badge/-Sequelize-00AFEE?style=for-the-badge&logo=Sequelize&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-TypeORM-E05D44?style=for-the-badge&logo=Exercism&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  </li>
+  <li>
+    <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  </li>
+  <li>
+    <img src="http://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Docker-2397EC?style=for-the-badge&logo=Docker&logoColor=white"
+         style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+  </li>
+</ul>
 
 #### ✍️ Blog
-[**하나몬** | **개발자의 작업과 기록** : hanamon.kr](https://hanamon.kr)
+[**하나몬** | **개발자의 작업과 기록** : www.hanamon.kr](https://hanamon.kr)
 
 ## 🔥 Team Projects
 
