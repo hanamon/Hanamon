@@ -1,56 +1,57 @@
-# Hi! Welcome to my GitHub!
-My name is Hanamon I'm a **Back-end Web Developer** based in South Korea. 👋 🧑🏻‍💻 🌳
+# Welcome to Hanamon's GitHub!
 
-## 🦉 About
+Hi, I'm Hanamon! 👋 🧑🏻‍💻 🌳 <br>
+I've been working as a Software Engineer in Korea, <br>
+focusing on Back-end, software architecture, system management, and DevOps, from 2022.
 
-#### 🛠 Tech Stack
-<ul>
+I can handle both back-end and front-end using JavaScript.
+At my current job I have experience in refactoring websites made with PHP to modern web development using JS.
+And I have experience building infrastructure from the ground up with AWS.
+I have also been working on infrastructure management, CI/CD improvement, and server operation using it.
+
+I always try to do my best in my role and work!
+
+Stack of technologies that I often use: Typescript, Node.js, NestJS, TypeORM, Apollo Server & GraphQL, Jest, Nginx, PM2, Linux, RDBMS(MySQL), Elasticsearch, Logstash, Kibana, Docker, docker-compose, Git, GitHub Actions, NextJS, React, Jira, AWS(IAM, EC2, ALB, S3, CloudFront, CloudFormation, CodeDeploy, CodePipeline, Lambda, RDS, WAF, CloudWatch, ECR)
+
+## 🛠 Tech Stack
+<ul style="padding: none; list-style: none;">
   <li>
-    <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>  
     <img src="http://img.shields.io/badge/-TypeScript-3073BF?style=for-the-badge&logo=TypeScript&logoColor=white"
        style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  </li>
-  <li>
-    <img src="http://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"
+    <img src="http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"
      style="height: auto; margin-left: 10px; margin-right: 10px;"/> 
-    <img src="http://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white"
-       style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-    <img src="http://img.shields.io/badge/-Nest-DA224B?style=for-the-badge&logo=NestJS&logoColor=white"
+    <img src="http://img.shields.io/badge/-NestJS-DA224B?style=for-the-badge&logo=NestJS&logoColor=white"
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-  </li>
-  <li>
-    <img src="http://img.shields.io/badge/-Sequelize-00AFEE?style=for-the-badge&logo=Sequelize&logoColor=white"
+    <img src="http://img.shields.io/badge/-TypeORM-262627?style=for-the-badge&logo=Exercism&logoColor=white"
      style="height: auto; margin-left: 10px; margin-right: 10px;"/>
-    <img src="http://img.shields.io/badge/-TypeORM-E05D44?style=for-the-badge&logo=Exercism&logoColor=white"
+    <img src="http://img.shields.io/badge/-GraphQL-DD34A6?style=for-the-badge&logo=GraphQL&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+     <img src="http://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"
      style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </li>
   <li>
     <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
      style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Elasticsearch-38B6AB?style=for-the-badge&logo=Elasticsearch&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Logstash-FEC512?style=for-the-badge&logo=Logstash&logoColor=black"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Kibana-F04E98?style=for-the-badge&logo=Kibana&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </li>
   <li>
+    <img src="http://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
     <img src="http://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
      style="height: auto; margin-left: 10px; margin-right: 10px;"/>
     <img src="http://img.shields.io/badge/-Docker-2397EC?style=for-the-badge&logo=Docker&logoColor=white"
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
+    <img src="http://img.shields.io/badge/-Jira-2480F7?style=for-the-badge&logo=Jira&logoColor=white"
+     style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </li>
 </ul>
 
-#### ✍️ Blog
+## ✍️ Blog
 [**하나몬** | **개발자의 작업과 기록** : www.hanamon.kr](https://hanamon.kr)
-
-## 🔥 Team Projects
-
-#### ⚗️ JISIK SPONSOR (지식스폰서)
-[**지식스폰서** | **연구지식 특화 크라우드 플랫폼** : jisiksponsor.com](https://jisiksponsor.com)  
-_Final Project / 4 week / Team 'The HADA' / 2021_
-
-#### 🌜 HAKUNA MATATA (하쿠나 마타타)
-[**하쿠나 마타타** | **인간관계 고민 커뮤니티** : hakunamatata.kr](https://hakunamatata.kr)  
-_First Project / 2 week / Team 'The HADA' / 2021_
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamon&count_private=true&show_icons=true&theme=cobalt&icon_color=78D9F8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamon&layout=compact&card_width=445&hide=hack&exclude_repo=WP-Hanamon-Site,defective-speaker,im-sprint-calculator,im-sprint-query-selector&theme=cobalt)](https://github.com/hanamon/github-readme-stats)
