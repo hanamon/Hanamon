@@ -13,6 +13,9 @@ I always try to do my best in my role and work!
 
 Stack of technologies that I often use: Typescript, Node.js, NestJS, TypeORM, Apollo Server & GraphQL, Jest, Nginx, PM2, Linux, RDBMS(MySQL), Elasticsearch, Logstash, Kibana, Docker, docker-compose, Git, GitHub Actions, NextJS, React, Jira, AWS(IAM, EC2, ALB, S3, CloudFront, CloudFormation, CodeDeploy, CodePipeline, Lambda, RDS, WAF, CloudWatch, ECR)
 
+## ✍️ Blog
+[**하나몬** | **개발자의 작업과 기록** : www.hanamon.kr](https://hanamon.kr)
+
 ## 🛠 Tech Stack
 <ul style="padding: none; list-style: none;">
   <li>
@@ -52,6 +55,3 @@ Stack of technologies that I often use: Typescript, Node.js, NestJS, TypeORM, Ap
      style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </li>
 </ul>
-
-## ✍️ Blog
-[**하나몬** | **개발자의 작업과 기록** : www.hanamon.kr](https://hanamon.kr)
